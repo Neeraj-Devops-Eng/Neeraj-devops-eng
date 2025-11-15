@@ -2,7 +2,8 @@
   
 #  Hey Everyone 👋, I'm Niraj Kumar Pathak
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Developer+Advocate;DevOps+%26+Platform+Engineering;3+%2B+Years+Experience;Cloud+Architecture+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=AWS%2FAzure+DevOps+Engineer;DevOps+%26+Cloud+Engineering;3%2B+Years+of+Experience;Cloud+Automation+%26+IaC)](https://git.io/typing-svg)
+
 
 </div>
 
