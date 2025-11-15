@@ -10,13 +10,14 @@
 
 ## 🚀 About Me
 
-I'm a **Developer Advocate** & **Educator @TrainWithShubham** specializing in **Development, DevOps, and Platform Engineering** from 🇮🇳 India, with **8+ years** of professional experience in both onsite and remote environments. I'm passionate about building **production-ready applications** and scalable cloud infrastructure.
+I'm a DevOps & Cloud Engineer with 3+ years of hands-on experience designing, automating, and supporting cloud infrastructure across Azure and AWS. I specialize in CI/CD pipelines, Infrastructure as Code, containerization, and cloud operations, with a strong focus on reliability, scalability, and automation.
 
-- 🔭 Currently working on **cloud-native solutions**, **Artificial Intelligence solutions** and **DevOps/Platform engineering**
-- 🌱 Always learning about **emerging technologies** and **best practices**
-- 👯 Looking to collaborate on **open-source projects** and **DevOps initiatives**
-- 💬 Ask me about **Python, Cloud Architecture, DevOps, and Platform Engineering**
-- ⚡ Fun fact: I love sharing knowledge through **training and mentoring**
+🔭 Working on enterprise-grade Azure/AWS environments, GitHub Actions pipelines, and Terraform-based infrastructure automation
+⚙️ Skilled in Docker, Kubernetes, Linux administration, monitoring, and solving real-world cloud issues
+🧩 Passionate about building efficient, secure, and production-ready DevOps workflows
+👯 Open to collaborating on Terraform modules, CI/CD workflows, automation scripts, and cloud-native projects
+💬 Talk to me about Azure Admin/DevOps, AWS basics, Terraform, Docker, Kubernetes, GitHub Actions, PowerShell, Python & Bash scripting
+🚀 Always learning and improving to build faster, automated, and more resilient cloud systems
 
 ---
 
@@ -24,11 +25,7 @@ I'm a **Developer Advocate** & **Educator @TrainWithShubham** specializing in **
 
 ### **Languages & Frameworks**
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+ <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </p>
 </p>
 
 ### **Cloud & DevOps**
