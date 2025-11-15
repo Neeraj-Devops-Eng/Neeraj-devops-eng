@@ -13,10 +13,15 @@
 I'm a DevOps & Cloud Engineer with 3+ years of hands-on experience designing, automating, and supporting cloud infrastructure across Azure and AWS. I specialize in CI/CD pipelines, Infrastructure as Code, containerization, and cloud operations, with a strong focus on reliability, scalability, and automation.
 
 🔭 Working on enterprise-grade Azure/AWS environments, GitHub Actions pipelines, and Terraform-based infrastructure automation
+
 ⚙️ Skilled in Docker, Kubernetes, Linux administration, monitoring, and solving real-world cloud issues
+
 🧩 Passionate about building efficient, secure, and production-ready DevOps workflows
+
 👯 Open to collaborating on Terraform modules, CI/CD workflows, automation scripts, and cloud-native projects
-💬 Talk to me about Azure Admin/DevOps, AWS basics, Terraform, Docker, Kubernetes, GitHub Actions, PowerShell, Python & Bash scripting
+
+💬 Comfortable discussing Azure administration, DevOps workflows, IaC, containers, and automation
+
 🚀 Always learning and improving to build faster, automated, and more resilient cloud systems
 
 ---
